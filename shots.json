@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&preset=golden&size=1920x1080&title=SUNSET%20HEIST&tagline=VICE%20CITY%20%C2%B7%20GOLDEN%20HOUR&photo0=hero&photo1=pier&photo2=boulevard&photo3=hero","w":1280},{"h":720,"name":"2-editor.jpg","query":"?shot=editor&preset=golden&size=1920x1080&title=SUNSET%20HEIST&tagline=VICE%20CITY%20%C2%B7%20GOLDEN%20HOUR&photo0=hero&photo1=pier&photo2=boulevard&photo3=hero","w":1280},{"h":1024,"name":"3-cover-square.jpg","query":"?shot=cover&preset=golden&size=1080x1080&title=SUNSET%20HEIST&tagline=VICE%20CITY%20%C2%B7%20GOLDEN%20HOUR&photo0=hero&photo1=pier&photo2=boulevard&photo3=hero","w":1024},{"h":1280,"name":"4-cover-portrait.jpg","query":"?shot=cover&preset=golden&size=1080x1350&title=SUNSET%20HEIST&tagline=VICE%20CITY%20%C2%B7%20GOLDEN%20HOUR&photo0=hero&photo1=pier&photo2=boulevard&photo3=hero","w":1024}]
